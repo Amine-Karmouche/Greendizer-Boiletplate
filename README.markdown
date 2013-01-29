@@ -15,6 +15,9 @@ In order to perform authentication, please modify the credentials by the ones pr
 	client_secret
 	email
 
+#Database setup
+Please modify your database name and path in the settings.py file
+
 #About the Library
 The library exposes the resources of the Greendizer API in a simple yet powerful way. It allows developers to create applications for Greendizer quickly and efficiently. For a detailed documentation about how to use it, you can check out our [Libraries Cookbook](https://www.greendizer.com/docs/libraries/).
 
