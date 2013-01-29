@@ -4,8 +4,8 @@ Welcome to Greendizer Boilerplate
 This is a Django starter project using OAuth for authentication.
 This boilerplate enables you to start your first django-powered Greendizer application.
 The Greendizer library is used to:
-	* Display your settings
-	* List all the invoices you received as a buyer
+* Display your settings
+* List all the invoices you received as a buyer
 
 Greendizer is a new kind of invoicing system.
 It turns the invoices sent with it to an extremely rich source of data for business intelligence and process automation.
@@ -15,9 +15,9 @@ Check out [the Greendizer website](https://www.greendizer.com/) for more informa
 #About authentication
 The OAuth flow used is the "Authorization Code Grant" for client/server applications
 In order to perform authentication, please modify the credentials by the ones provided to you upon registration of your application; namely:
-	* client_id
-	* client_secret
-	* email
+* client_id
+* client_secret
+* email
 
 #Database setup
 Please modify your database name and path in the settings.py file
