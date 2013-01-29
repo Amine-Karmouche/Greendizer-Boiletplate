@@ -3,6 +3,10 @@ Welcome to Greendizer Boilerplate
 #Contents
 This is a Django starter project using OAuth for authentication.
 This boilerplate enables you to start your first django-powered Greendizer application.
+The Greendizer library is used to:
+	Display your settings
+	List all the invoices you received as a buyer
+	
 Greendizer is a new kind of invoicing system.
 It turns the invoices sent with it to an extremely rich source of data for business intelligence and process automation.
 
