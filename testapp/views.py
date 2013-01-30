@@ -37,7 +37,7 @@ def main_page(request):
     #access the settings and the invoices
     settings = BuyerClient(access_token).user.settings
     auth_user = BuyerClient(access_token).user
-    email = auth_user.emails['amine.karmouche@greendizer.com']
+    email = auth_user.emails['your_email_adress']
     invoice_collection = email.invoices.all
     invoice_collection.populate()
 
