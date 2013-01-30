@@ -9,8 +9,8 @@ The Greendizer library is used to:
 
 #Requirements
 This boilerplate requires the following:
-*[Greendizer Python Library](https://github.com/Greendizer/Greendizer-Python-Library) which includes OAuth 
-*[PyXMLi](https://github.com/Greendizer/PyXMLi)
+* [Greendizer Python Library](https://github.com/Greendizer/Greendizer-Python-Library) which includes OAuth 
+* [PyXMLi](https://github.com/Greendizer/PyXMLi)
 
 Greendizer is a new kind of invoicing system.
 It turns the invoices sent with it to an extremely rich source of data for business intelligence and process automation.
