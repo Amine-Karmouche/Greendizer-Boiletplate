@@ -7,6 +7,11 @@ The Greendizer library is used to:
 * Display your settings
 * List all the invoices you received as a buyer
 
+#Requirements
+This boilerplate requires the following:
+*[Greendizer Python Library](https://github.com/Greendizer/Greendizer-Python-Library) which includes OAuth 
+*[PyXMLi](https://github.com/Greendizer/PyXMLi)
+
 Greendizer is a new kind of invoicing system.
 It turns the invoices sent with it to an extremely rich source of data for business intelligence and process automation.
 
@@ -19,8 +24,7 @@ In order to perform authentication, please modify the credentials by the ones pr
 * client_secret
 * email
 
-#Database setup
-Please modify your database name and path in the settings.py file
+
 
 #About the Library
 The library exposes the resources of the Greendizer API in a simple yet powerful way. It allows developers to create applications for Greendizer quickly and efficiently. For a detailed documentation about how to use it, you can check out our [Libraries Cookbook](https://www.greendizer.com/docs/libraries/).
